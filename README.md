@@ -1,5 +1,5 @@
 <!-- <h1 align="left">Hey ! My Name is  Shloka</h1> -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Single&pause=1000&color=F7F7F7&center=true&vCenter=true&width=950&lines=Hey+!+My+Name+is++Shloka)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&pause=1000&color=F7F7F7&center=true&vCenter=true&lines=Hey+!+My+Name+is++Shloka)](https://git.io/typing-svg)
 
 ###
 
