@@ -24,14 +24,6 @@
 
 ###
 
-<h2 align="left">Tech Paths I'm On</h2>
-
-###
-
-<h3 align="left">- Building responsive, production-ready full-stack applications from the ground up<br>- Specializing in AI/ML  turning data into decisions and models into features<br>- Sharpening my craft in React, Node.js, Python & JavaScript <br>- Systems scalability and design patterns backed by a strong DSA foundation</h3>
-
-###
-
 <h1 align="left">Tools and Technologies I use</h1>
 
 ###
